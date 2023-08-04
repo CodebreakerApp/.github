@@ -6,13 +6,15 @@ Codebreaker - learn .NET and Microsoft Azure developing a cool game!
 
 Repository about an upcoming book:
 
-[Pragmatic Microservices with C# and Azure](https://github.com/CodebreakerApp/Pragmatic-Microservices-With-C-Sharp-and-Azure)
+[Repo Pragmatic Microservices with C# and Azure](https://github.com/CodebreakerApp/Pragmatic-Microservices-With-C-Sharp-and-Azure)
 
 ## Backend
 
 Backend services to run the Codebreaker services:
 
-[Codebreaker backend services](https://github.com/CodebreakerApp/Codebreaker.Backend)
+URL for the Games API Service (Test environment): https://codebreaker-gamesapi-3.purplebush-9a246700.westeurope.azurecontainerapps.io
+
+[Repo Codebreaker backend services](https://github.com/CodebreakerApp/Codebreaker.Backend)
 
 This repository contains the source code of these NuGet packages:
 
@@ -21,20 +23,20 @@ This repository contains the source code of these NuGet packages:
 
 ## Blazor client
 
-[Blazor client](https://github.com/CodebreakerApp/Codebreaker.Blazor)
+[Repo Blazor client](https://github.com/CodebreakerApp/Codebreaker.Blazor)
 
 ## XAML Clients
 
-[WinUI, .NET MAUI, WPF clients](https://github.com/CodebreakerApp/Codebreaker.Xaml)
+[Repo WinUI, .NET MAUI, WPF clients](https://github.com/CodebreakerApp/Codebreaker.Xaml)
 
 ## Codebreaker light
 
 Build your own simple Codebreaker backend and clients using the Wiki from this repo:
 
-[Codebreaker light](https://github.com/CodebreakerApp/codebreakerlight)
+[Repo Codebreaker light](https://github.com/CodebreakerApp/codebreakerlight)
 
 ## Thrive 2023 Workshop
 
-[Thrive 2023 Workshop](https://github.com/CodebreakerApp/thriveworkshop2023)
+[Repo Thrive 2023 Workshop](https://github.com/CodebreakerApp/thriveworkshop2023)
 
 More information coming soon!
