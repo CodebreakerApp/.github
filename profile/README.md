@@ -4,9 +4,9 @@ Codebreaker - learn .NET and Microsoft Azure developing a cool game!
 
 ## The Book
 
-Repository about an upcoming book:
+Repository about my upcoming book:
 
-[Repo Pragmatic Microservices with C# and Azure](https://github.com/CodebreakerApp/Pragmatic-Microservices-With-C-Sharp-and-Azure)
+[Pragmatic Microservices with C# and Azure](https://github.com/PacktPublishing/Pragmatic-Microservices-with-CSharp-and-Azure)
 
 ## Backend
 
