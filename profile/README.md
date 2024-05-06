@@ -12,7 +12,7 @@ Repository about my upcoming book:
 
 Backend services to run the Codebreaker services:
 
-URL for the Games API Service (Test environment): https://codebreaker-gamesapi-3.purplebush-9a246700.westeurope.azurecontainerapps.io
+URL for the Games API Service (Test environment): https://gameapis.kindbeach-def2191a.westeurope.azurecontainerapps.io
 
 [Repo Codebreaker backend services](https://github.com/CodebreakerApp/Codebreaker.Backend)
 
